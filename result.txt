@@ -1,1 +1,13 @@
-Success
+Crimson
+Orange
+Green
+Cyan
+Yellow
+Ivory
+Khaki
+Coral
+Silver
+Fuchsia
+Grey
+Brown
+Red
